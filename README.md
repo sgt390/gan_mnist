@@ -1,0 +1,2 @@
+# Generative Adversarial Networks on MNIST handwritten digits dataset
+tutorial from https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
